@@ -1,0 +1,23 @@
+{
+  "name": "toclient",
+  "version": "1.0.0",
+  "description": "It's  a simple client info of the company",
+  "main": "client.js",
+  "scripts": {
+   
+    "build":"tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhijeet884/npmClient.git"
+  },
+  "author": "abhijeet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhijeet884/npmClient/issues"
+  },
+  "homepage": "https://github.com/Abhijeet884/npmClient#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
